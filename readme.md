@@ -1,4 +1,8 @@
 # ALT
+### mbednarek360's build
+Requires [this](https://github.com/ottobonn/qmk_firmware/blob/ea1ea011d82f731dda9e02675097cfa20c88e5ce/tmk_core/common/arm_atsam/eeprom.c) EEProm patch. 
+
+---
 
 ![ALT](https://massdrop-s3.imgix.net/product-images/alt-keyboard/FP/WNxwR19gTua3nxiiQWP3_AI7B3311%20copy%20page.jpg?auto=format&fm=jpg&fit=max&w=700&h=467&dpr=1&q=80)
 
