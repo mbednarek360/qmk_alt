@@ -1,6 +1,11 @@
-# ALT
-### mbednarek360's build
-Requires [this](https://github.com/ottobonn/qmk_firmware/blob/ea1ea011d82f731dda9e02675097cfa20c88e5ce/tmk_core/common/arm_atsam/eeprom.c) EEProm patch. 
+# ALT (mbednarek360's build)
+### Modifications
+- LED memory on power loss
+- NKRO by default 
+
+### Requirements
+- QMK in `~/qmk_firmware/`
+- [This](https://github.com/ottobonn/qmk_firmware/blob/ea1ea011d82f731dda9e02675097cfa20c88e5ce/tmk_core/common/arm_atsam/eeprom.c) EEProm patch 
 
 ---
 
