@@ -105,6 +105,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* Force boot in NKRO mode */
 #define FORCE_NKRO
 
+/* Unicode support */
+#define UNICODE_SELECTED_MODES UC_LNX
+
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
