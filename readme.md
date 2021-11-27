@@ -2,6 +2,7 @@
 ### Modifications
 - LED memory on power loss
 - NKRO by default 
+- Greek / math layer
 
 ### Requirements
 - QMK in `~/qmk_firmware/`
