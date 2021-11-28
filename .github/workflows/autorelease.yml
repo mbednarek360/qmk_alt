@@ -11,10 +11,11 @@ jobs:
     name: "Generate Release"
     
     steps:
+      - uses: actions/checkout@v1
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
           prerelease: true
           title: "Latest Dev Build"
-          files: firmware.bin
+          files: ./firmware.bin
